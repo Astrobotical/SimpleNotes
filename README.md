@@ -1,6 +1,5 @@
-# mynotes
-
-A simple note taking application with SqlLite
+# SimpleNotes
+A simple flutter note taking application with SqlLite
 
 ## Getting Started
 
