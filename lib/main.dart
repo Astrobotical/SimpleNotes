@@ -8,7 +8,7 @@ import 'package:mynotes/dbHelper.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//update
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
